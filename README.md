@@ -16,7 +16,8 @@
 
 ### Últimos Projetos:
 
-- Criando Ladding Page de Hamburgeria - Projeto de Estudo - https://tchehambuergueria.netlify.app<br/>
-- Criando API de Busca por Clima - Projeto de Estudo - https://projectapiweather.netlify.app <br/>
+- Desenvolvido Ladding Page de Hamburgeria - Projeto de Estudo - https://tchehambuergueria.netlify.app <br/>
+- Desenvolvido API de Busca por Clima - Projeto de Estudo - https://projectapiweather.netlify.app <br/>
+- Desenvolvido Ladding Page Cafeteria Starbuck - Projeto de Estudo - https://projectstudystarbucks.netlify.app <br/>
 
 
