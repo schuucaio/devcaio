@@ -14,6 +14,9 @@
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <div><br/>
 
+### Site Curriculum:
+- https://curriculumcaioalmeida.netlify.app
+  
 ### Últimos Projetos:
 
 - Desenvolvido Ladding Page de Hamburgeria - Projeto de Estudo - https://tchehambuergueria.netlify.app <br/>
